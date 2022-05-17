@@ -7,6 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/perumallpardhiv" target="blank"><img src="https://img.shields.io/twitter/follow/perumallpardhiv?logo=twitter&style=for-the-badge" alt="perumallpardhiv" /></a> </p>
 
+- 🌱 I’m currently learning **DSA, App development**
+
+- 💬 Ask me about **Android, flutter**
+
 - 📫 How to reach me **naaperupardhu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
