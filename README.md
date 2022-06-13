@@ -29,7 +29,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=perumallpardhiv&show_icons=true&locale=en&layout=compact" alt="perumallpardhiv" height = "350" width = "350" />
 <!-- </div> -->
 <!-- <div class="column"> -->
-<img src="https://github-readme-stats.vercel.app/api?username=perumallpardhiv&show_icons=true&locale=en" alt="perumallpardhiv" height = "380" width = "380"/>
+<img src="https://github-readme-stats.vercel.app/api?username=perumallpardhiv&show_icons=true&locale=en" alt="perumallpardhiv" height = "350" width = "350"/>
 <!-- </div> -->
 </div>
 
