@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://twitter.com/perumallpardhiv" target="blank"><img src="https://img.shields.io/twitter/follow/perumallpardhiv?logo=twitter&style=for-the-badge" alt="perumallpardhiv" /></a> </p>
 
-- 🌱 I’m currently learning **DSA, App development**
+- 🌱 I’m currently learning **App development**
 
 - 💬 Ask me about **Android, flutter**
 
