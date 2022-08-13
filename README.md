@@ -1,36 +1,28 @@
 <h1 align="center">Hi 👋, I'm Perumall Pardhiv</h1>
 <h3 align="center">A passionate App developer</h3>
 
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=perumallpardhiv&label=Profile%20views&color=0e75b6&style=flat" alt="perumallpardhiv" /> </p> -->
+# 💫 About Me:
+🌱 I’m currently learning c++, Appdevelopment<br>🔭 I’m looking to collaborate on Opensource<br>💬 Ask me about Android, flutter<br>📫 How to reach me naaperupardhu@gmail.com<br>⚡ Fun fact: I spend much time listening to songs
 
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=perumallpardhiv" alt="perumallpardhiv" /></a> </p> -->
 
-<p align="center"> <a href="https://twitter.com/perumallpardhiv" target="blank"><img src="https://img.shields.io/twitter/follow/perumallpardhiv?logo=twitter&style=for-the-badge" alt="perumallpardhiv" /></a> </p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/perumallpardhiv) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naa_peru_pardhiv/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/perumall-pardhiv-3159a6228/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/perumallpardhiv) 
 
-- 🌱 I’m currently learning **App development**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=perumallpardhiv&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=perumallpardhiv&theme=swift&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=perumallpardhiv&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 💬 Ask me about **Android, flutter**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=perumallpardhiv&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
-- 📫 How to reach me **naaperupardhu@gmail.com**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/perumallpardhiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="perumallpardhiv" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/perumall-pardhiv-3159a6228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="perumall-pardhiv-3159a6228" height="30" width="40" /></a>
-<a href="https://fb.com/perumallpardhiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="perumallpardhiv" height="30" width="40" /></a>
-<a href="https://instagram.com/naa_peru_pardhiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naa_peru_pardhiv" height="30" width="40" /></a>
-</p>
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a></p>
-
-<div class="row" align = "center">
-<!-- <div class="column"> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=perumallpardhiv&show_icons=true&locale=en&layout=compact" alt="perumallpardhiv" height = "350" width = "350" />
-<!-- </div> -->
-<!-- <div class="column"> -->
-<img src="https://github-readme-stats.vercel.app/api?username=perumallpardhiv&show_icons=true&locale=en" alt="perumallpardhiv" height = "350" width = "350"/>
-<!-- </div> -->
-</div>
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=perumallpardhiv&" alt="perumallpardhiv" /></p> -->
+---
+[![](https://visitcount.itsvg.in/api?id=perumallpardhiv&icon=6&color=1)](https://visitcount.itsvg.in)
