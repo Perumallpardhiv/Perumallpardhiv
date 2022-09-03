@@ -24,7 +24,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=perumallpardhiv&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+<a href="https://github.com/perumallpardhiv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=perumallpardhiv&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Perumall's github stats" /></a><a href="https://github.com/perumallpardhiv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perumallpardhiv&layout=compact&theme=buefy&hide_border=true" /></a>
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=perumallpardhiv&theme=flat&no-frame=false&no-bg=false&margin-w=4) -->
