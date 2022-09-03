@@ -20,11 +20,11 @@
 
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=perumallpardhiv&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=perumallpardhiv&theme=swift&hide_border=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=perumallpardhiv&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=perumallpardhiv&theme=swift&hide_border=false) -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=perumallpardhiv&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 
-<a href="https://github.com/perumallpardhiv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=perumallpardhiv&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Perumall's github stats" /></a><a href="https://github.com/perumallpardhiv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perumallpardhiv&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/perumallpardhiv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=perumallpardhiv&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false" alt="Perumall's github stats" /></a><a href="https://github.com/perumallpardhiv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perumallpardhiv&layout=compact&theme=buefy&hide_border=false" /></a>
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=perumallpardhiv&theme=flat&no-frame=false&no-bg=false&margin-w=4) -->
