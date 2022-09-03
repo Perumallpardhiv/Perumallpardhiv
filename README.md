@@ -24,5 +24,8 @@
 <!-- ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
+## Snake eating my contribution graph
+![snake gif](https://github.com/perumallpardhiv/perumallpardhiv/blob/output/github-contribution-grid-snake.gif)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=perumallpardhiv&icon=6&color=1)](https://visitcount.itsvg.in)
