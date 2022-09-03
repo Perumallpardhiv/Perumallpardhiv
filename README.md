@@ -1,8 +1,15 @@
-<h1 align="center">Hi 👋, I'm Perumall Pardhiv</h1>
-<h3 align="center">A passionate App developer</h3>
+# Hey there👋, Welcome to my Github Profile
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Perumall;App+developer...;Data+Science+Enthusiast...;Active+Open+Source+Contributor..."/>
+
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
 # 💫 About Me:
-🌱 I’m currently learning c++, Appdevelopment<br>🔭 I’m looking to collaborate on Opensource<br>💬 Ask me about Android, flutter<br>📫 How to reach me naaperupardhu@gmail.com<br>⚡ Fun fact: I spend much time listening to songs
+🌱 I’m currently learning c++, Appdevelopment<br><br>
+🔭 I’m looking to collaborate on Opensource<br><br>
+💬 Ask me about Android, flutter<br><br>
+📫 How to reach me naaperupardhu@gmail.com<br><br>
+⚡ Fun fact: I spend much time listening to songs<br>
 
 
 ## 🌐 Socials:
