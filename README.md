@@ -1,6 +1,6 @@
 # Hey there👋, Welcome to my Github Profile
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Perumall;App+developer...;Data+Science+Enthusiast...;Active+Open+Source+Contributor..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Perumall;Sophomore+at+IIIT+Lucknow...;App+developer...;Data+Science+Enthusiast...;"/>
 
 <!-- [![@rphi's Holopin board](https://holopin.io/api/user/board?user=perumallpardhiv)](https://holopin.io/@perumallpardhiv) -->
 
