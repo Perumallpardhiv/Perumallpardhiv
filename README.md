@@ -21,12 +21,12 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
 # 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=perumallpardhiv&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+![](https://github-readme-stats.vercel.app/api?username=perumallpardhiv&theme=swift&hide_border=true&include_all_commits=false&count_private=false)<br/>
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=perumallpardhiv&theme=swift&hide_border=false) -->
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=perumallpardhiv&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=perumallpardhiv&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<a href="https://github.com/perumallpardhiv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=perumallpardhiv&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false" alt="Perumall's github stats" /></a><a href="https://github.com/perumallpardhiv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perumallpardhiv&layout=compact&theme=buefy&hide_border=false" /></a>
+<!-- <a href="https://github.com/perumallpardhiv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=perumallpardhiv&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false" alt="Perumall's github stats" /></a><a href="https://github.com/perumallpardhiv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perumallpardhiv&layout=compact&theme=buefy&hide_border=false" /></a> -->
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=perumallpardhiv&theme=flat&no-frame=false&no-bg=false&margin-w=4) -->
