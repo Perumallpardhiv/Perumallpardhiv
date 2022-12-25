@@ -38,5 +38,7 @@
 
 <!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 
+[![An image of @perumallpardhiv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/perumallpardhiv)](https://holopin.io/@perumallpardhiv)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=perumallpardhiv&icon=6&color=1)](https://visitcount.itsvg.in)
