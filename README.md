@@ -28,8 +28,8 @@
 
 <!-- <a href="https://github.com/perumallpardhiv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=perumallpardhiv&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false" alt="Perumall's github stats" /></a><a href="https://github.com/perumallpardhiv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perumallpardhiv&layout=compact&theme=buefy&hide_border=false" /></a> -->
 
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=perumallpardhiv&theme=flat&no-frame=false&no-bg=false&margin-w=4) -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=perumallpardhiv&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 ## Contribution graph get eaten by snake 🐍
 ![snake gif](https://github.com/perumallpardhiv/perumallpardhiv/blob/output/github-contribution-grid-snake.gif)
@@ -38,7 +38,7 @@
 
 <!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 
-[![An image of @perumallpardhiv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/perumallpardhiv)](https://holopin.io/@perumallpardhiv)
+<!-- [![An image of @perumallpardhiv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/perumallpardhiv)](https://holopin.io/@perumallpardhiv) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=perumallpardhiv&icon=6&color=1)](https://visitcount.itsvg.in)
