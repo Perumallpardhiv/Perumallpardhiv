@@ -22,7 +22,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=perumallpardhiv&theme=swift&hide_border=true&include_all_commits=false&count_private=false)<br/>
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=perumallpardhiv&theme=swift&hide_border=false) -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=perumallpardhiv&theme=swift&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=perumallpardhiv&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
@@ -31,8 +31,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=perumallpardhiv&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
-## Contribution graph get eaten by snake 🐍
-![snake gif](https://github.com/perumallpardhiv/perumallpardhiv/blob/output/github-contribution-grid-snake.gif)
+<!-- ## Contribution graph get eaten by snake 🐍 -->
+<!-- ![snake gif](https://github.com/perumallpardhiv/perumallpardhiv/blob/output/github-contribution-grid-snake.gif) -->
 
 ![gitartwork](gitartwork.svg)
 
