@@ -28,12 +28,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=perumallpardhiv&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
-## Contribution graph get eaten by snake 🐍
-![snake gif](https://github.com/perumallpardhiv/perumallpardhiv/blob/output/github-contribution-grid-snake.gif)
-
 ![gitartwork](gitartwork.svg)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+<!-- ## Contribution graph get eaten by snake 🐍 -->
+![snake gif](https://github.com/perumallpardhiv/perumallpardhiv/blob/output/github-contribution-grid-snake.gif)
+
+
+<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 
 <!-- [![An image of @perumallpardhiv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/perumallpardhiv)](https://holopin.io/@perumallpardhiv) -->
 
