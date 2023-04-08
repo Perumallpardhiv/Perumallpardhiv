@@ -30,7 +30,7 @@
 
 ![gitartwork](gitartwork.svg)
 
-<!-- ## Contribution graph get eaten by snake 🐍 -->
+## Contribution graph get eaten by snake 🐍
 ![snake gif](https://github.com/perumallpardhiv/perumallpardhiv/blob/output/github-contribution-grid-snake.gif)
 
 
