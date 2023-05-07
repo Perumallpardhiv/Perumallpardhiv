@@ -9,7 +9,7 @@
 # 💫 About Me:
 🌱 I’m currently learning C++, Flutter Development<br><br>
 🔭 I’m looking to collaborate on Opensource<br><br>
-💬 Ask me about Flutter, Kotlin<br><br>
+💬 Ask me about Flutter, Kotlin, Android<br><br>
 📫 How to reach me naaperupardhu@gmail.com<br><br>
 ⚡ Fun fact: I spend much time listening to songs<br>
 
