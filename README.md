@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Perumall;Sophomore+at+IIIT+Lucknow...;Flutter+developer...;Data+Science+Enthusiast...;"/>
 
-<!-- [![@rphi's Holopin board](https://holopin.io/api/user/board?user=perumallpardhiv)](https://holopin.io/@perumallpardhiv) -->
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=perumallpardhiv)](https://holopin.io/@perumallpardhiv)
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
@@ -36,7 +36,7 @@
 
 <!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 
-[![An image of @perumallpardhiv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/perumallpardhiv)](https://holopin.io/@perumallpardhiv)
+<!-- [![An image of @perumallpardhiv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/perumallpardhiv)](https://holopin.io/@perumallpardhiv) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=perumallpardhiv&icon=6&color=1)](https://visitcount.itsvg.in)
