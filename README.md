@@ -14,7 +14,6 @@
 📫 How to reach me naaperupardhu@gmail.com<br><br>
 ⚡ Fun fact: I spend much time listening to songs<br><br>
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/perumallpardhiv) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naa_peru_pardhiv/) 
