@@ -9,7 +9,7 @@
 # 💫 About Me:
 🌱 I’m currently learning C++, DSA, NodeJS, Flutter<br><br>
 🔭 I’m looking to collaborate on Opensource<br><br>
-💬 Ask me about Data Structures<br><br>
+💬 Ask me about Data Structures and Algorithms<br><br>
 📫 How to reach me naaperupardhu@gmail.com<br><br>
 ⚡ Fun fact: I spend much time listening to songs<br><br>
 
